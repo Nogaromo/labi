@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Belov Vitaliy
 =======
 Egor Goryanoy
 Slava Ovchinnikov <>
 
 >>>>>>> 91dc26637d2be5cfe6c9ca828745ec9fe235b4bf
+=======
+First version of file
+Second version of file
+Third version of file
+>>>>>>> ba9d0a49a5bf746c7d7a22a3ef69305af27167be
