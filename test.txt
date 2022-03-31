@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Belov Vitaliy
+=======
+Egor Goryanoy
+Slava Ovchinnikov <>
+
+>>>>>>> 91dc26637d2be5cfe6c9ca828745ec9fe235b4bf
