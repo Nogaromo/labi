@@ -11,3 +11,4 @@ First version of file
 Second version of file
 Third version of file
 >>>>>>> ba9d0a49a5bf746c7d7a22a3ef69305af27167be
+Lesha Sandulskiy
